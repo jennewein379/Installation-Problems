@@ -1,4 +1,5 @@
 C is a language that need compiler AND IDE. There are two things needed to be installed: minGW and one of the IDE (VSCode is selected).
+
 MinGW (to prevent "the file has been downloaded incorrectly" error)
 1. Go to this website to download MinGW. https://sourceforge.net/projects/mingw-w64/
 2. Select win 32 dwarf version.
